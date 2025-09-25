@@ -48,8 +48,8 @@ I have built custom solutions across a variety of industries, including:
 𝐅𝐢𝐧𝐝 𝐦𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐤𝐞𝐲 𝐰𝐨𝐫𝐝𝐬 𝐛𝐞𝐥𝐨𝐰:
 API, RESTful API, API Integration, AWS Lambda, Amazon Web Services, Docker, Git, Agile Software Development, Python, JavaScript, ECMAScript, TypeScript, jQuery, AngularJS, React, Redux, Next.js, ExpressJS, Node.js, Prisma, GoLang, PostgreSQL, SQL, CSS, CSS3, Sass, Tailwind CSS, HTML, HTML5, Template Markup, Mobile App Development, React Native, iOS, iOS Development, Android, Android App Development, Web Development, Web Application, Website, Web Design, Graphic Design, UI/UX Prototyping, User Authentication, Search Engine Optimization, Social Media Account Integration, Chat & Messaging Software, Twilio API, Expo.io, Landing Page, comfy, polotno, Artificial Intelligence. 
 
-[Upwork](https://www.upwork.com/freelancers/~0116b593becf982302)
-[Github2](https://github.com/elomscansio)
-[OSS Org](https://github.com/scyberLink)
-[LinkedIn](https://www.linkedin.com/in/emmanuel-paul-elom-scansio)
-[Whatsapp/Mobile](+2349157057814)
+- [X] [Upwork](https://www.upwork.com/freelancers/~0116b593becf982302) 
+- [X] [Github2](https://github.com/elomscansio) 
+- [X] [OSS Org](https://github.com/scyberLink) 
+- [X] [LinkedIn](https://www.linkedin.com/in/emmanuel-paul-elom-scansio) 
+- [X] [Whatsapp/Mobile](+2349157057814) 
