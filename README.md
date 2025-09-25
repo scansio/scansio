@@ -52,4 +52,4 @@ API, RESTful API, API Integration, AWS Lambda, Amazon Web Services, Docker, Git,
 - [X] [Github2](https://github.com/elomscansio) 
 - [X] [OSS Org](https://github.com/scyberLink) 
 - [X] [LinkedIn](https://www.linkedin.com/in/emmanuel-paul-elom-scansio) 
-- [X] [Whatsapp/Mobile](+2349157057814) 
+- [X] [Whatsapp/Mobile](tel:+2349157057814): +2349157057814 
